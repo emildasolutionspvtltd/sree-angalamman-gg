@@ -1,0 +1,31 @@
+---
+title: Table Cover
+slug: table-cover
+updated-on: '2024-05-01T06:36:02.747Z'
+created-on: '2024-04-30T14:28:02.315Z'
+published-on: '2024-05-01T07:26:09.048Z'
+f_image-1:
+  url: >-
+    https://uploads-ssl.webflow.com/66291b60863d1e64d24d554c/6631e2c402c5853093e89a92_71t8RAVfCvL._AC_UF894%2C1000_QL80_.jpg
+  alt: null
+f_image-2:
+  url: >-
+    https://uploads-ssl.webflow.com/66291b60863d1e64d24d554c/6631e2c60e5e4024a66888b2_71XPkQQviBS._SL1440.jpg
+  alt: null
+f_image-3:
+  url: >-
+    https://uploads-ssl.webflow.com/66291b60863d1e64d24d554c/6631e2ca98489d60bd349454_91ejkCliMKL._AC_UF894%2C1000_QL80_.jpg
+  alt: null
+f_image-4:
+  url: >-
+    https://uploads-ssl.webflow.com/66291b60863d1e64d24d554c/6631e2cd0e5e4024a6688d7f_DTC111359901_1.jpg
+  alt: null
+f_image-5:
+  url: >-
+    https://uploads-ssl.webflow.com/66291b60863d1e64d24d554c/6631e2d05cc79a68c5089336_GinghamWovenCottonTableCloth-Ivory-1.webp
+  alt: null
+layout: '[products].html'
+tags: products
+---
+
+
