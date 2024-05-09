@@ -24,6 +24,7 @@ f_image-5:
   url: >-
     https://uploads-ssl.webflow.com/66291b60863d1e64d24d554c/6631e5db1302742f3a566a81_livpure-sleep-bed-linen-premium-cotton-comforter-duvet-cover-34509660749977.webp
   alt: null
+f_featured-on-home-marquee: false
 layout: '[products].html'
 tags: products
 ---

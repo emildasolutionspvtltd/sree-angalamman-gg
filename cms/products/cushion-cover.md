@@ -24,6 +24,7 @@ f_image-5:
   url: >-
     https://uploads-ssl.webflow.com/66291b60863d1e64d24d554c/6631e2700e5e4024a66825ca_pillow-2.webp
   alt: null
+f_featured-on-home-marquee: false
 layout: '[products].html'
 tags: products
 ---

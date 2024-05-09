@@ -3,7 +3,7 @@ backend:
   accept_roles:
     - admin
     - editor
-  branch: main
+  branch: master
 media_folder: theme/assets/images
 public_folder: /assets/images
 collections:
@@ -261,6 +261,17 @@ collections:
         widget: markdown
         required: false
       - hint: ''
+        name: f_featured-on-home-marquee
+        label: featured on home marquee
+        widget: boolean
+        required: false
+        default: false
+      - hint: ''
+        name: f_home-indexing
+        label: home indexing
+        widget: number
+        required: false
+      - hint: ''
         name: f_category
         label: Category
         widget: string
@@ -434,6 +445,11 @@ collections:
             label: alt
             widget: string
             required: false
+      - hint: ''
+        name: f_index
+        label: Index
+        widget: number
+        required: false
       - label: Tags
         widget: hidden
         name: tags
@@ -1008,28 +1024,18 @@ collections:
             label: Text
             name: '-72e8b96a'
             widget: text
-          - hint: 'Original text: Our Team, key: 290af1'
+          - hint: 'Original text: Our Management, key: -35727e29'
             label: Text
-            name: 290af1
+            name: '-35727e29'
             widget: string
           - hint: >-
-              Original text: None of this would be possible without , key:
-              -53af11ca
+              Original text: Our management team is the driving force behind our
+              creative endeavours. They lead with passion and expertise,
+              orchestrating each project with care and vision. Together, we form
+              a cohesive unit, dedicated to crafting something wonderful for
+              your home., key: -44036832
             label: Text
-            name: '-53af11ca'
-            widget: string
-          - hint: >-
-              Original text: our amazing team. They're the magicians behind the
-              scenes, key: -578515fd
-            label: Text
-            name: '-578515fd'
-            widget: string
-          - hint: >-
-              Original text: , crafting each piece with care and creativity.
-              We're a big family here, driven by a passion to create something
-              wonderful for your home., key: -b3e08f1
-            label: Text
-            name: '-b3e08f1'
+            name: '-44036832'
             widget: text
           - hint: 'Original text: Our Promise to You, key: -124e54ed'
             label: Text
@@ -1083,6 +1089,29 @@ collections:
               right., key: -75b863b
             label: Text
             name: '-75b863b'
+            widget: text
+          - hint: 'Original text: Our Team, key: 290af1'
+            label: Text
+            name: 290af1
+            widget: string
+          - hint: >-
+              Original text: None of this would be possible without , key:
+              -53af11ca
+            label: Text
+            name: '-53af11ca'
+            widget: string
+          - hint: >-
+              Original text: our amazing team. They're the magicians behind the
+              scenes, key: -578515fd
+            label: Text
+            name: '-578515fd'
+            widget: string
+          - hint: >-
+              Original text: , crafting each piece with care and creativity.
+              We're a big family here, driven by a passion to create something
+              wonderful for your home., key: -b3e08f1
+            label: Text
+            name: '-b3e08f1'
             widget: text
           - hint: 'Original text: Our Partnerships & Commitments, key: -5b36c7f9'
             label: Text
@@ -1885,7 +1914,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 68b8b1ee
+            name: 39edc75a
             widget: object
             fields:
               - name: url

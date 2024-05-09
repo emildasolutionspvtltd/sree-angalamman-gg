@@ -1,9 +1,9 @@
 ---
 title: Table Cover
 slug: table-cover
-updated-on: '2024-05-01T06:36:02.747Z'
+updated-on: '2024-05-09T13:53:48.964Z'
 created-on: '2024-04-30T14:28:02.315Z'
-published-on: '2024-05-01T07:26:09.048Z'
+published-on: '2024-05-07T13:59:19.214Z'
 f_image-1:
   url: >-
     https://uploads-ssl.webflow.com/66291b60863d1e64d24d554c/6631e2c402c5853093e89a92_71t8RAVfCvL._AC_UF894%2C1000_QL80_.jpg
@@ -24,6 +24,12 @@ f_image-5:
   url: >-
     https://uploads-ssl.webflow.com/66291b60863d1e64d24d554c/6631e2d05cc79a68c5089336_GinghamWovenCottonTableCloth-Ivory-1.webp
   alt: null
+f_index: 2
+f_home-featured-product-picture:
+  url: >-
+    https://uploads-ssl.webflow.com/66291b60863d1e64d24d554c/6631e2d05cc79a68c5089336_GinghamWovenCottonTableCloth-Ivory-1.webp
+  alt: null
+f_featured-on-home-marquee: true
 layout: '[products].html'
 tags: products
 ---

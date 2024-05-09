@@ -1,9 +1,9 @@
 ---
 title: Cushions
 slug: cushions
-updated-on: '2024-05-02T12:27:55.864Z'
+updated-on: '2024-05-09T13:52:12.911Z'
 created-on: '2024-05-02T07:50:04.145Z'
-published-on: '2024-05-02T12:48:02.820Z'
+published-on: '2024-05-07T13:59:19.214Z'
 f_image-1:
   url: >-
     https://uploads-ssl.webflow.com/66291b60863d1e64d24d554c/663386a8861307c9829ca9f3_A18Sr9MuuGL._AC_UF894%2C1000_QL80_.jpg
@@ -24,6 +24,12 @@ f_image-5:
   url: >-
     https://uploads-ssl.webflow.com/66291b60863d1e64d24d554c/663386bfbb54192d879be8ab_images.jpeg
   alt: null
+f_index: 3
+f_home-featured-product-picture:
+  url: >-
+    https://uploads-ssl.webflow.com/66291b60863d1e64d24d554c/663386abcbcffd598a9a654b_A1vUtLbCIHL.jpg
+  alt: null
+f_featured-on-home-marquee: true
 layout: '[products].html'
 tags: products
 ---

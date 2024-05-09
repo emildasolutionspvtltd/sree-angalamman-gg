@@ -28,6 +28,7 @@ f_image-6:
   url: >-
     https://uploads-ssl.webflow.com/66291b60863d1e64d24d554c/663107a16d6f186626770150_milan-textured-matte-bedspread-25-x-26m-champagne-165444.jpg
   alt: null
+f_featured-on-home-marquee: false
 layout: '[products].html'
 tags: products
 ---

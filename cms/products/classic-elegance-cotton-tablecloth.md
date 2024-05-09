@@ -395,13 +395,10 @@ f_image-6:
   url: >-
     https://uploads-ssl.webflow.com/66291b60863d1e64d24d554c/662933ae2b9eadc3cc032403_image14.jpeg
   alt: null
-updated-on: '2024-04-30T11:40:03.773Z'
+updated-on: '2024-05-08T14:35:04.763Z'
 created-on: '2024-04-24T17:19:41.516Z'
 published-on: '2024-05-01T07:26:09.048Z'
-f_home-featured-product-picture:
-  url: >-
-    https://uploads-ssl.webflow.com/66291b60863d1e64d24d554c/6630d88f2ba3bb6be44bb601_sree%20angalamman.png
-  alt: null
+f_featured-on-home-marquee: false
 layout: '[products].html'
 tags: products
 ---

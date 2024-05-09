@@ -24,6 +24,7 @@ f_image-5:
   url: >-
     https://uploads-ssl.webflow.com/66291b60863d1e64d24d554c/6631e6701402f8eb83df2926_810XGrz3rNL.jpg
   alt: null
+f_featured-on-home-marquee: false
 layout: '[products].html'
 tags: products
 ---

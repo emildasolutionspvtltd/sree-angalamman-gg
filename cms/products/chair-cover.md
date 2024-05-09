@@ -24,6 +24,7 @@ f_image-5:
   url: >-
     https://uploads-ssl.webflow.com/66291b60863d1e64d24d554c/6631e20638fb1e6f4bb64760_stretchable-chair-covers-diamond-grey-trendize-5.webp
   alt: null
+f_featured-on-home-marquee: false
 layout: '[products].html'
 tags: products
 ---

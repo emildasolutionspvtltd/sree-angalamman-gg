@@ -19,7 +19,7 @@ f_products:
   - cms/products/curtain-valance.md
   - cms/products/duvet-cover.md
   - cms/products/floor-cushion.md
-  - cms/products/rugs.md
+  - cms/products/bags.md
   - cms/products/throws.md
   - cms/products/pillow-cover.md
 f_index: 4

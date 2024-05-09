@@ -24,6 +24,7 @@ f_image-5:
   url: >-
     https://uploads-ssl.webflow.com/66291b60863d1e64d24d554c/6631e6e6ab4c6d990b9a6c15_petal-soft-quilted-bed-cover-brown-ethnic-100-cotton-king-size-bedspread-769191.webp
   alt: null
+f_featured-on-home-marquee: false
 layout: '[products].html'
 tags: products
 ---

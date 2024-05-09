@@ -347,13 +347,10 @@ f_image-6:
   url: >-
     https://uploads-ssl.webflow.com/66291b60863d1e64d24d554c/66293f2b4116e40a5ce90a7f_image3.jpeg
   alt: null
-updated-on: '2024-04-30T11:40:53.826Z'
+updated-on: '2024-05-08T14:34:53.780Z'
 created-on: '2024-04-24T17:19:41.458Z'
 published-on: '2024-05-01T07:26:09.048Z'
-f_home-featured-product-picture:
-  url: >-
-    https://uploads-ssl.webflow.com/66291b60863d1e64d24d554c/6630d8c09e28c6946b90bf0f_3.png
-  alt: null
+f_featured-on-home-marquee: false
 layout: '[products].html'
 tags: products
 ---

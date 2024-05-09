@@ -457,13 +457,10 @@ f_image-6:
     https://uploads-ssl.webflow.com/66291b60863d1e64d24d554c/66293f2a4116e40a5ce90a65_image10.jpeg
   alt: null
 slug: sunset-mirage-taffeta-tablecloth
-updated-on: '2024-04-30T11:41:23.524Z'
+updated-on: '2024-05-08T14:34:45.920Z'
 created-on: '2024-04-24T17:19:41.458Z'
 published-on: '2024-05-01T07:26:09.048Z'
-f_home-featured-product-picture:
-  url: >-
-    https://uploads-ssl.webflow.com/66291b60863d1e64d24d554c/6630d8cedd65ff18225ec92a_4.png
-  alt: null
+f_featured-on-home-marquee: false
 layout: '[products].html'
 tags: products
 ---

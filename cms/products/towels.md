@@ -28,6 +28,7 @@ f_image-6:
   url: >-
     https://uploads-ssl.webflow.com/66291b60863d1e64d24d554c/663106ee958e603526e0c036_pexels-rodolphozanardo-1304110.jpg
   alt: null
+f_featured-on-home-marquee: false
 layout: '[products].html'
 tags: products
 ---
